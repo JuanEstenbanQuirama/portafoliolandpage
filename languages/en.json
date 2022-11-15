@@ -1,0 +1,20 @@
+{
+    "profile": {
+        "rol": "Desarrollador front-end",
+        "description": " en ingles xd Soy decidido, versatil, capaz de simultanear vartias tareas. Con amplia experiencia en ambientes laborales en los que se valora el compromiso y la capacidad de trabajar en equipo...."
+        
+
+    },
+    "experience": {
+        "first-job-title":"desarrolador ...",
+        "first-job-dates":"enero del 2021",
+        "first-job-description":"lorem",
+        "second-job-title":"desarrolador ...",
+        "second-job-dates":"enero del 2021",
+        "second-job-description":"lorem",
+        "last-job-title":"desarrolador ...",
+        "last-job-dates":"enero del 2021",
+        "last-job-description":"lorem"
+    }
+
+}
